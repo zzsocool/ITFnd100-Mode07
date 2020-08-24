@@ -102,3 +102,4 @@ For this week assignment, I started with creating a binary file. Binary file mod
 For read mode, I input “rb”. For reading a binary, I used pickle.load() as shown in figure 2.
 ```
 ![Figure 2](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/aaaaa.png "Figure 2")
+### Figure 2: Read data to a binary file.
