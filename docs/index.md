@@ -102,7 +102,7 @@ For this week assignment, I started with creating a binary file. Binary file mod
 ```
 For read mode, I input “rb”. For reading a binary, I used pickle.load() as shown in figure 2.
 ```
-![Figure 2](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/aaaaa.png "Figure 2")
+![Figure 2](https://zzsocool.github.io/ITFnd100-Mode07/aaaaa.png "Figure 2")
 ### Figure 2: Read data to a binary file.
 ```
 By following professor’s template, I took user’s input into a list and use called out save data function and read data function to complete first part of the assignments as show in figure 3.
