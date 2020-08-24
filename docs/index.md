@@ -16,4 +16,4 @@ if new_file_name.isnumeric():
 
 raise Exception('Do not use numbers for the file\'s name')except Exception as e:print("There was a non-specific error!")print("Built-In Python error info: ")
 ```
-![HelloWorld](docs/1_0KFB17_NGTPB0XWyc4BSgQ.jpeg“HelloWorld”)
+![HelloWorld](https://zzsocool.github.io/ITFnd100-Mode07/docs/1_0KFB17_NGTPB0XWyc4BSgQ.jpeg%E2%80%9CHelloWorld%E2%80%9D“HelloWorld”)
