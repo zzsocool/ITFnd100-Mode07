@@ -111,3 +111,16 @@ By following professor’s template, I took user’s input into a list and use c
 ```
 For part 2 error handling. I started with guess the length of a list from 1 to 10.  I created a custom error message to tell the users if their input is wrong or not. If the input is not an integer, they will get error message to tell them enter number and integer only. If input is smaller than 5, they will be told the number is too low. If the input is bigger than 5, they will be told the number is too high as shown in figure 4.``
 ```
+![Figure 4](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/ccccc.png "Figure 4")
+### Figure 4: Custom error message.
+```
+Next, I found a built-in error call ModuleNotFoundError. So, I let the users to type the name of module to import. If they enter the name of the module did not exist in the system, it will trigger the error message. If the user did not enter anything, it will trigger ValueError as show in figure 5.
+```
+
+![Figure 5](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/dddd.png "Figure 5")
+### Figure 5: ModuleNotFoundError Demo.
+```
+I intentionally made a mistake that I had encountered before in the third demo: TypeError. I concatenated “str” to “int”. If two numbers are input, it will automatically trigger the TypeError. If two letters are input, it will display ValueError as shown in figure 6.
+```
+![Figure 6](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/eeee.png "Figure 6")
+### Figure 6: TypeError Demo.
