@@ -106,6 +106,8 @@ For read mode, I input “rb”. For reading a binary, I used pickle.load() as s
 ```
 By following professor’s template, I took user’s input into a list and use called out save data function and read data function to complete first part of the assignments as show in figure 3.
 ```
+![Figure 3](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/bbbb.png "Figure 3")
+### Figure 3: Part one pickle demo main body code.
 ```
 For part 2 error handling. I started with guess the length of a list from 1 to 10.  I created a custom error message to tell the users if their input is wrong or not. If the input is not an integer, they will get error message to tell them enter number and integer only. If input is smaller than 5, they will be told the number is too low. If the input is bigger than 5, they will be told the number is too high as shown in figure 4.``
 ```
