@@ -5,7 +5,7 @@
 https://github.com/zzsocool/ITFnd100-Mode07
 
 
-# Binary File and Error Handling
+#       Binary File and Error Handling
 
 ```
 # -------------------------------------------------#
