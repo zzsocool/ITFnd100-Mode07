@@ -1,6 +1,12 @@
-# Welcome
-**Dev:** *Zshen*  
-**Date:** *08.23.2020*
+**Zefeng Shen**  
+**August 23, 2020**  
+**IT FDN 110A** 
+**Assignment07**  
+https://github.com/zzsocool/ITFnd100-Mode07
+
+
+# Binary File and Error Handling
+
 ```
 # -------------------------------------------------#
 # Title: Partial document of assignment 07
