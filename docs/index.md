@@ -2,7 +2,7 @@
 **August 23, 2020**  
 **IT FDN 110A** 
 **Assignment07**  
-https://github.com/zzsocool/ITFnd100-Mode07
+(https://github.com/zzsocool/ITFnd100-Mode07)
 
 
 #       Binary File and Error Handling
@@ -33,7 +33,7 @@ The access modes available for the open() function are as follows:
 ```
 A binary file is a file stored in binary format. A binary file is computer-readable but not human-readable. All executable programs are stored in binary files, as are most numeric data files. In contrast, text files are stored in a form (usually ASCII) that is human-readable.
 ```
-(Webopedia,https://www.webopedia.com/TERM/B/binary_file.html#:~:text=A%20binary%20file%20is%20a,)%20that%20is%20human%2Dreadable.) (External website)
+[Webopedia](https://www.webopedia.com/TERM/B/binary_file.html#:~:text=A%20binary%20file%20is%20a,)%20that%20is%20human%2Dreadable.) (External website)
 
 ## Pickle:
 ```
