@@ -27,13 +27,13 @@ The access modes available for the open() function are as follows:
 •	a+: Opens a file for both appending and reading.
 •	ab+: Opens a file for both appending and reading in binary mode.
 ```
-(Stackabouse, https://stackabuse.com/file-handling-in-python/) (External website)
+[Stackabouse](https://stackabuse.com/file-handling-in-python/) (External website)
 
 ## Binary file:
 ```
 A binary file is a file stored in binary format. A binary file is computer-readable but not human-readable. All executable programs are stored in binary files, as are most numeric data files. In contrast, text files are stored in a form (usually ASCII) that is human-readable.
 ```
-[Webopedia](https://www.webopedia.com/TERM/B/binary_file.html#:~:text=A%20binary%20file%20is%20a,)%20that%20is%20human%2Dreadable.) (External website)
+[Webopedia](https://www.webopedia.com/TERM/B/binary_file.html) (External website)
 
 ## Pickle:
 ```
