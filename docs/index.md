@@ -6,7 +6,7 @@
 # Title: Partial document of assignment 07
 # Description:Script
 # ChangeLog: (Who, When, What)
-# Zefeng ,08.23.2030,Created Script
+# Zefeng ,08.23.2020,Created Script
 # -------------------------------------------------#
 Zefeng Shen
 August 23, 2020
