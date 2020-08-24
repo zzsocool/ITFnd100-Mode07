@@ -96,7 +96,7 @@ ZeroDivisionError	Raised when the second operand of a division or module operati
 ```
 For this week assignment, I started with creating a binary file. Binary file mode was different than normal text file. For writing mode, I input “wb”. For writing a binary file, I used pickle.dump() as shown in figure 1.
 ```
-![Figure 1](docs/assignmeng.png "Figure 1")
+![Figure 1](/docs/assignmeng.png "Figure 1")
 
 ### Figure 1: Save data to a binary file.
 ```
