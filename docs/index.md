@@ -39,9 +39,9 @@ A binary file is a file stored in binary format. A binary file is computer-reada
 ```
 The pickle module implements binary protocols for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy. Pickling (and unpickling) is alternatively known as “serialization”, “marshalling,” 1 or “flattening”; however, to avoid confusion, the terms used here are “pickling” and “unpickling”.
  The pickle module is not secure. Only unpickle data you trust. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling. Never unpickle data that could have come from an untrusted source, or that could have been tampered with. Consider signing data with hmac if you need to ensure that it has not been tampered with. Safer serialization formats such as json may be more appropriate if you are processing untrusted data
-
-(Docpython,https://docs.python.org/3/library/pickle.html#:~:text=%E2%80%9CPickling%E2%80%9D%20is%20the%20process%20whereby,back%20into%20an%20object%20hierarchy.) (External website)
 ```
+(Docpython,https://docs.python.org/3/library/pickle.html#:~:text=%E2%80%9CPickling%E2%80%9D%20is%20the%20process%20whereby,back%20into%20an%20object%20hierarchy.) (External website)
+
 ## Try and Except:
 ```
 How try() works?
@@ -50,9 +50,10 @@ How try() works?
 •	If any exception occured, try clause will be skipped and except clause will run.
 •	If any exception occurs, but the except clause within the code doesn’t handle it, it is passed on to the outer try statements. If the exception left unhandled, then the execution stops.
 •	A try statement can have more than one except clause
+```
 (Geekssforgeeks,https://www.geeksforgeeks.org/python-try-except/) ( External website)
 
-```
+
 ## Built-in Exception
 ```
 The following table lists important built-in exceptions in Python.
@@ -88,8 +89,9 @@ UnicodeDecodeError	Raised when a Unicode-related error occurs during decoding.
 UnicodeTranslateError	Raised when a Unicode-related error occurs during translation.
 ValueError	Raised when a function gets an argument of correct type but improper value.
 ZeroDivisionError	Raised when the second operand of a division or module operation is zero.
-(Tutorialsteacher,https://www.tutorialsteacher.com/python/error-types-in-python) (External website)
 ```
+(Tutorialsteacher,https://www.tutorialsteacher.com/python/error-types-in-python) (External website)
+
 ## Script:
 ```
 For this week assignment, I started with creating a binary file. Binary file mode was different than normal text file. For writing mode, I input “wb”. For writing a binary file, I used pickle.dump() as shown in figure 1.
