@@ -2,7 +2,7 @@
 **August 23, 2020**  
 **IT FDN 110A** 
 **Assignment07**  
-(https://github.com/zzsocool/ITFnd100-Mode07)
+[Github Page](https://github.com/zzsocool/ITFnd100-Mode07)
 
 
 #       Binary File and Error Handling
