@@ -96,7 +96,7 @@ ZeroDivisionError	Raised when the second operand of a division or module operati
 ```
 For this week assignment, I started with creating a binary file. Binary file mode was different than normal text file. For writing mode, I input “wb”. For writing a binary file, I used pickle.dump() as shown in figure 1.
 ```
-![Figure 1](/docs/assignmeng.png "Figure 1")
+![Figure 1](https://zzsocool.github.io/ITFnd100-Mode07/assignmeng.png "Figure 1")
 
 ### Figure 1: Save data to a binary file.
 ```
@@ -107,23 +107,23 @@ For read mode, I input “rb”. For reading a binary, I used pickle.load() as s
 ```
 By following professor’s template, I took user’s input into a list and use called out save data function and read data function to complete first part of the assignments as show in figure 3.
 ```
-![Figure 3](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/bbbb.png "Figure 3")
+![Figure 3](https://zzsocool.github.io/ITFnd100-Mode07/bbbb.png "Figure 3")
 ### Figure 3: Part one pickle demo main body code.
 ```
 For part 2 error handling. I started with guess the length of a list from 1 to 10.  I created a custom error message to tell the users if their input is wrong or not. If the input is not an integer, they will get error message to tell them enter number and integer only. If input is smaller than 5, they will be told the number is too low. If the input is bigger than 5, they will be told the number is too high as shown in figure 4.``
 ```
-![Figure 4](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/ccccc.png "Figure 4")
+![Figure 4](https://zzsocool.github.io/ITFnd100-Mode07/ccccc.png "Figure 4")
 ### Figure 4: Custom error message.
 ```
 Next, I found a built-in error call ModuleNotFoundError. So, I let the users to type the name of module to import. If they enter the name of the module did not exist in the system, it will trigger the error message. If the user did not enter anything, it will trigger ValueError as show in figure 5.
 ```
 
-![Figure 5](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/dddd.png "Figure 5")
+![Figure 5](https://zzsocool.github.io/ITFnd100-Mode07/dddd.png "Figure 5")
 ### Figure 5: ModuleNotFoundError Demo.
 ```
 I intentionally made a mistake that I had encountered before in the third demo: TypeError. I concatenated “str” to “int”. If two numbers are input, it will automatically trigger the TypeError. If two letters are input, it will display ValueError as shown in figure 6.
 ```
-![Figure 6](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/eeee.png "Figure 6")
+![Figure 6](https://zzsocool.github.io/ITFnd100-Mode07/eeee.png "Figure 6")
 ### Figure 6: TypeError Demo.
 ## Github:
 ```
