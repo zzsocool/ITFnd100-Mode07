@@ -88,7 +88,7 @@ ValueError	Raised when a function gets an argument of correct type but improper 
 ZeroDivisionError	Raised when the second operand of a division or module operation is zero.
 (Tutorialsteacher,https://www.tutorialsteacher.com/python/error-types-in-python) (External website)
 ```
-##Script:
+## Script:
 ```
 For this week assignment, I started with creating a binary file. Binary file mode was different than normal text file. For writing mode, I input “wb”. For writing a binary file, I used pickle.dump() as shown in figure 1.
 ```
