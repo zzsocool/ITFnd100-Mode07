@@ -124,3 +124,13 @@ I intentionally made a mistake that I had encountered before in the third demo: 
 ```
 ![Figure 6](https://github.com/zzsocool/ITFnd100-Mode07/blob/master/docs/eeee.png "Figure 6")
 ### Figure 6: TypeError Demo.
+## Github:
+```
+By following video tutorial, I created an advanced Github web page. I had a same issue that the picture did not display as well. After following the troubleshooting steps, the picture finally displayed correctly
+```
+## Summary:
+
+```
+After researching about error handling, I get more familiar and understand what do the error messages mean and what do I need to change about the code. Binary file is not for human to read. It is not safe to open any unknown source binary file. There may be a virus hide inside of the file.
+```
+
